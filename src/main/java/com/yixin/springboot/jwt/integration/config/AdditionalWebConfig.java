@@ -1,4 +1,4 @@
-package com.nouhoun.springboot.jwt.integration.config;
+package com.yixin.springboot.jwt.integration.config;
 
 import org.springframework.boot.web.servlet.FilterRegistrationBean;
 import org.springframework.context.annotation.Bean;

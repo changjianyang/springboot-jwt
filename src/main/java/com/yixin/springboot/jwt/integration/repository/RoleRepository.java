@@ -1,6 +1,6 @@
-package com.nouhoun.springboot.jwt.integration.repository;
+package com.yixin.springboot.jwt.integration.repository;
 
-import com.nouhoun.springboot.jwt.integration.domain.Role;
+import com.yixin.springboot.jwt.integration.domain.Role;
 import org.springframework.data.repository.CrudRepository;
 
 /**

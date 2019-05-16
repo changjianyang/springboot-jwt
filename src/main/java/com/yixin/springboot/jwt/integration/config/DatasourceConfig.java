@@ -1,9 +1,8 @@
-package com.nouhoun.springboot.jwt.integration.config;
+package com.yixin.springboot.jwt.integration.config;
 
 import org.springframework.beans.factory.annotation.Qualifier;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
-import org.springframework.context.annotation.Profile;
 import org.springframework.data.jpa.repository.config.EnableJpaRepositories;
 import org.springframework.jdbc.datasource.embedded.EmbeddedDatabase;
 import org.springframework.jdbc.datasource.embedded.EmbeddedDatabaseBuilder;
@@ -24,7 +23,7 @@ import java.beans.PropertyVetoException;
  */
 @Configuration
 @EnableTransactionManagement
-@EnableJpaRepositories(basePackages = "com.nouhoun.springboot.jwt.integration.repository")
+@EnableJpaRepositories(basePackages = "com.yixin.springboot.jwt.integration.repository")
 public class DatasourceConfig {
 
     @Bean

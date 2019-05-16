@@ -1,4 +1,4 @@
-package com.nouhoun.springboot.jwt.integration;
+package com.yixin.springboot.jwt.integration;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

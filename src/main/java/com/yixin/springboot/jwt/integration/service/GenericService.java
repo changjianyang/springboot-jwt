@@ -1,7 +1,7 @@
-package com.nouhoun.springboot.jwt.integration.service;
+package com.yixin.springboot.jwt.integration.service;
 
-import com.nouhoun.springboot.jwt.integration.domain.RandomCity;
-import com.nouhoun.springboot.jwt.integration.domain.User;
+import com.yixin.springboot.jwt.integration.domain.RandomCity;
+import com.yixin.springboot.jwt.integration.domain.User;
 
 import java.util.List;
 

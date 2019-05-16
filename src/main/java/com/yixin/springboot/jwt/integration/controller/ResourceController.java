@@ -1,11 +1,10 @@
-package com.nouhoun.springboot.jwt.integration.controller;
+package com.yixin.springboot.jwt.integration.controller;
 
-import com.nouhoun.springboot.jwt.integration.domain.RandomCity;
-import com.nouhoun.springboot.jwt.integration.domain.User;
-import com.nouhoun.springboot.jwt.integration.service.GenericService;
+import com.yixin.springboot.jwt.integration.domain.RandomCity;
+import com.yixin.springboot.jwt.integration.domain.User;
+import com.yixin.springboot.jwt.integration.service.GenericService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.access.prepost.PreAuthorize;
-import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.bind.annotation.RestController;

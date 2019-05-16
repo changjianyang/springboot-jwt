@@ -1,10 +1,10 @@
-package com.nouhoun.springboot.jwt.integration.service.impl;
+package com.yixin.springboot.jwt.integration.service.impl;
 
-import com.nouhoun.springboot.jwt.integration.domain.RandomCity;
-import com.nouhoun.springboot.jwt.integration.domain.User;
-import com.nouhoun.springboot.jwt.integration.repository.RandomCityRepository;
-import com.nouhoun.springboot.jwt.integration.repository.UserRepository;
-import com.nouhoun.springboot.jwt.integration.service.GenericService;
+import com.yixin.springboot.jwt.integration.domain.RandomCity;
+import com.yixin.springboot.jwt.integration.domain.User;
+import com.yixin.springboot.jwt.integration.repository.RandomCityRepository;
+import com.yixin.springboot.jwt.integration.repository.UserRepository;
+import com.yixin.springboot.jwt.integration.service.GenericService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

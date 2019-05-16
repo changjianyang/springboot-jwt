@@ -1,4 +1,4 @@
-package com.nouhoun.springboot.jwt.integration.domain;
+package com.yixin.springboot.jwt.integration.domain;
 
 import javax.persistence.*;
 
