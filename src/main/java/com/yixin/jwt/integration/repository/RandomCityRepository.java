@@ -1,6 +1,6 @@
-package com.yixin.springboot.jwt.integration.repository;
+package com.yixin.jwt.integration.repository;
 
-import com.yixin.springboot.jwt.integration.domain.RandomCity;
+import com.yixin.jwt.integration.domain.RandomCity;
 import org.springframework.data.repository.CrudRepository;
 
 /**

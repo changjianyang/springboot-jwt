@@ -1,6 +1,6 @@
-package com.yixin.springboot.jwt.integration.repository;
+package com.yixin.jwt.integration.repository;
 
-import com.yixin.springboot.jwt.integration.domain.Role;
+import com.yixin.jwt.integration.domain.Role;
 import org.springframework.data.repository.CrudRepository;
 
 /**

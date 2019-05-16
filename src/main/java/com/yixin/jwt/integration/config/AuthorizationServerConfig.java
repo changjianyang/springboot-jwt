@@ -1,4 +1,4 @@
-package com.yixin.springboot.jwt.integration.config;
+package com.yixin.jwt.integration.config;
 
 import java.util.Arrays;
 

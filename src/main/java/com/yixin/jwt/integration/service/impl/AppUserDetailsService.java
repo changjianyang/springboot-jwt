@@ -1,7 +1,7 @@
-package com.yixin.springboot.jwt.integration.service.impl;
+package com.yixin.jwt.integration.service.impl;
 
-import com.yixin.springboot.jwt.integration.domain.User;
-import com.yixin.springboot.jwt.integration.repository.UserRepository;
+import com.yixin.jwt.integration.domain.User;
+import com.yixin.jwt.integration.repository.UserRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.core.GrantedAuthority;
 import org.springframework.security.core.authority.SimpleGrantedAuthority;

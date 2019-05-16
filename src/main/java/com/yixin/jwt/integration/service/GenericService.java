@@ -1,7 +1,7 @@
-package com.yixin.springboot.jwt.integration.service;
+package com.yixin.jwt.integration.service;
 
-import com.yixin.springboot.jwt.integration.domain.RandomCity;
-import com.yixin.springboot.jwt.integration.domain.User;
+import com.yixin.jwt.integration.domain.RandomCity;
+import com.yixin.jwt.integration.domain.User;
 
 import java.util.List;
 

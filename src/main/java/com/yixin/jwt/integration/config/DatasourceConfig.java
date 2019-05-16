@@ -1,4 +1,4 @@
-package com.yixin.springboot.jwt.integration.config;
+package com.yixin.jwt.integration.config;
 
 import org.springframework.beans.factory.annotation.Qualifier;
 import org.springframework.context.annotation.Bean;
@@ -23,7 +23,7 @@ import java.beans.PropertyVetoException;
  */
 @Configuration
 @EnableTransactionManagement
-@EnableJpaRepositories(basePackages = "com.yixin.springboot.jwt.integration.repository")
+@EnableJpaRepositories(basePackages = "com.yixin.jwt.integration.repository")
 public class DatasourceConfig {
 
     @Bean

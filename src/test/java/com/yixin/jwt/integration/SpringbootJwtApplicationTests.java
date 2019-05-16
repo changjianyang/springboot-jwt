@@ -1,4 +1,4 @@
-package com.yixin.springboot.jwt.integration;
+package com.yixin.jwt.integration;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
